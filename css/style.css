@@ -1,0 +1,11 @@
+
+.active-package{
+    background-image: url("../images/pakage-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #ffff;
+    background-size: cover;
+}
+.active-package> .card-body ul> li{
+    color: #ffff !important;
+}
